@@ -2,7 +2,9 @@
 operating systems project: simulate multiple connection requests with a master server via multithreading
 
 Abstract directory contains code for defining abstract clients and servers
+
 JerryWang directory contains classes for different types of clients and servers, and a factory to instantiate them
+
 Test directory contains code for testing the behavior of the classes from JerryWang. 
 
 
